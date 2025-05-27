@@ -1,7 +1,8 @@
 import BestSellingProducts from '@/components/bestselling'
 import FeaturedProducts from '@/components/feature'
 import Footer from '@/components/footer'
-import Hero from '@/components/hero'
+import { Hero } from '@/components/hero'
+
 import React from 'react'
 
 function page() {
