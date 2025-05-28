@@ -16,6 +16,11 @@ const nextConfig = {
         hostname: 'cdn.sanity.io',  // Add this line
         pathname: '/**',  // Allow all paths within this domain
       },
+      {
+        protocol: 'https',
+        hostname: 'perfumeonline.pk',   // Ye naya domain add karein
+        pathname: '/**',
+      },
     ],
   },
 };
